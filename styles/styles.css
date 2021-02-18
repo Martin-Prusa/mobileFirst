@@ -20,16 +20,16 @@ nav ul li a{
     text-decoration: none;
 }
 
-body {
-    margin: 0;
-    font-size: 20px;
-    font-family: Arial, serif;
+.navO {
+    padding: 12px 0;
+    width: 100vw;
+    text-align: center;
 }
 
-.container {
-    max-width: 1000px;
-    width: 100%;
-    margin: 0 auto;
+body {
+    margin: 0;
+    font-size: 17px;
+    font-family: Arial, serif;
 }
 
 #mobile-sub-nav {
@@ -75,3 +75,4 @@ a:hover {
 #list:hover {
     color: white;
 }
+
