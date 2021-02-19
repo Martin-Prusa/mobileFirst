@@ -20,10 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617b9e64-3ac1-432a-9bc3-e783976268e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,6 +67,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/styles" />
     </key>
@@ -75,7 +83,9 @@
       <option name="presentableId" value="Default" />
       <updated>1613476489710</updated>
       <workItem from="1613476490755" duration="3699000" />
-      <workItem from="1613633281102" duration="3753000" />
+      <workItem from="1613633281102" duration="3876000" />
+      <workItem from="1613658510487" duration="685000" />
+      <workItem from="1613738106833" duration="3681000" />
     </task>
     <servers />
   </component>
@@ -92,15 +102,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1168" y="623" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613644148468">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
     <state x="1168" y="623" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1359@0.23.2560.1359" timestamp="1613644148468" />
-    <state width="600" height="428" key="javadoc.popup" timestamp="1613478579265">
+    <state width="600" height="428" key="javadoc.popup" timestamp="1613738767543">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
-    <state width="600" height="428" key="javadoc.popup/0.23.2560.1359@0.23.2560.1359" timestamp="1613478579265" />
+    <state width="600" height="428" key="javadoc.popup/0.23.2560.1359@0.23.2560.1359" timestamp="1613738767543" />
   </component>
 </project>
