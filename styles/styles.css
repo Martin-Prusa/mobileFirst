@@ -55,7 +55,8 @@ body {
 }
 
 #aaa a {
-    margin: 0;
+    margin-right:20px;
+    margin-left:20px;
     padding:0 5px;
 }
 
@@ -171,4 +172,54 @@ a:hover {
     width: 90%;
     max-width: 500px;
     margin: 20px auto;
+}
+
+/*--------------------------------------------------------------------------SociualniSite---------------------------------------------------------------------------*/
+
+.person {
+    margin-top: 20px;
+    font-size: 60px;
+    background-color: #363636;
+    color: #f8f8f8;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 500ms;
+}
+
+
+.about p {
+    margin-top: 50px;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.about {
+    padding-bottom: 20px;
+}
+
+.sit {
+    margin: 10px;
+    width: 170px;
+    padding: 20px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    transition: 500ms;
+    border: 3px solid black;
+
+}
+
+.sit i {
+    margin-right: 10px;
+}
+
+.sit:hover {
+    border-color: #00b103;
+    color: #00b103;
 }
