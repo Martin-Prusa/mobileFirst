@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617b9e64-3ac1-432a-9bc3-e783976268e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/styles-login.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
@@ -87,7 +82,9 @@
       <workItem from="1613658510487" duration="685000" />
       <workItem from="1613738106833" duration="3992000" />
       <workItem from="1613757341948" duration="11000" />
-      <workItem from="1613812837083" duration="4431000" />
+      <workItem from="1613812837083" duration="4696000" />
+      <workItem from="1613901687021" duration="6000" />
+      <workItem from="1613985213394" duration="2541000" />
     </task>
     <servers />
   </component>
@@ -111,9 +108,9 @@
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
     <state x="1168" y="623" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1359@0.23.2560.1359" timestamp="1613644148468" />
-    <state width="600" height="428" key="javadoc.popup" timestamp="1613820180924">
+    <state width="600" height="428" key="javadoc.popup" timestamp="1613986803281">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
-    <state width="600" height="428" key="javadoc.popup/0.23.2560.1359@0.23.2560.1359" timestamp="1613820180924" />
+    <state width="600" height="428" key="javadoc.popup/0.23.2560.1359@0.23.2560.1359" timestamp="1613986803281" />
   </component>
 </project>

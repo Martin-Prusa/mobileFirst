@@ -223,3 +223,66 @@ a:hover {
     border-color: #00b103;
     color: #00b103;
 }
+
+/*----------------------------------------------------------Index-----------------------------------------------------------------*/
+
+.mc {
+    width: 500px;
+    height: 150px;
+}
+
+.mp span {
+    font-size: 100px;
+}
+
+#p{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#b {
+    background-color: #404040;
+}
+
+#index {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#index .ns {
+    width: 300px;
+    height: 100px;
+    border: 3px solid #f8f8f8;
+    margin: 20px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #363636;
+    transition: 500ms;
+}
+
+#index a {
+    color: #f8f8f8;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#index a span {
+    width: 40px;
+}
+
+.i {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#index a:hover {
+    color: #00b103;
+}
+
+#index a:hover .ns {
+    border-color: #00b103;
+}
